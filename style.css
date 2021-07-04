@@ -5,6 +5,9 @@ body {
 h1 {
   font-size: 50px;
 }
+h2 {
+  font-size: 40px;
+}
 .purple {
   color: rgb(126, 22, 126);
 }
@@ -35,7 +38,7 @@ h1 {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
-  background-position-y: 15%;
+  background-position-y: 45%;
 }
 .bottom-banner {
   background-image: url(images/exp-bg.png);
