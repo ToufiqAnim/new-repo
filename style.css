@@ -31,17 +31,17 @@ h2 {
   border-radius: 5px;
 }
 .top-banner {
-  background-image: url("images/top-banner.png");
+  background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
 }
 .middle-banner {
-  background-image: url("images/middle-banner.png");
+  background-image: url("../images/middle-banner.png");
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: 45%;
 }
 .bottom-banner {
-  background-image: url("images/bottom-banner.png");
+  background-image: url("../images/bottom-banner.png");
   background-repeat: no-repeat;
   background-position-y: center;
 }
